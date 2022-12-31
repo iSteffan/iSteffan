@@ -1,12 +1,12 @@
 ### Hi there a stranger 👋
-<picture>
+<!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+</picture> -->
 
 <div align="center">
-  <img src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP/giphy.gif"/>
 </div>
 <!--
 **iSteffan/iSteffan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
