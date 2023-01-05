@@ -28,7 +28,7 @@ My major is Fullstack (JavaScript).
 
 ---
 
-...if something is going frong:
+...if something is going wrong:
 <div align="center">
  <img src="https://media.giphy.com/media/1afuwyOsr5E8X9CuRV/giphy.gif" width="600" height="300"/>
 </div>
