@@ -1,4 +1,6 @@
-### Hi there a stranger 👋
+### Hello 👋
+
+I'm studying to coding with <link href="https://goit.global/ua/">GoIT Academy<link>.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isteffan&theme=dark&background=000000)](https://git.io/streak-stats)
 
