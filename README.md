@@ -24,6 +24,8 @@ I'm studying to coding with <link href="https://goit.global/ua/">GoIT Academy<li
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture> -->
 
+---
+
 <div align="center">
  <img src="https://media.giphy.com/media/1afuwyOsr5E8X9CuRV/giphy.gif" width="600" height="300"/>
 </div>
