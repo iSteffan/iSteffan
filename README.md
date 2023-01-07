@@ -1,7 +1,7 @@
 ### Hello 👋
 
 I'm studying to coding with <link href="https://goit.global/ua/">GoIT Academy<link>.
-My major is Fullstack (JavaScript).
+My major is a Fullstack developer (JavaScript).
 
 ---
 
