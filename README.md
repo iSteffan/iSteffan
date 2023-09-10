@@ -34,9 +34,9 @@ I'm a Junior Fullstack (JavaScript) developer.
  ---
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=isteffan&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iSteffan&theme=icegray&border_radius=10.2&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isteffan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isteffan&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
