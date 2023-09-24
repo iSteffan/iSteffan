@@ -6,8 +6,8 @@ I'm a Junior Fullstack (JavaScript) developer.
 ---
 
 ### :hammer_and_wrench: My stack :
-<div>
-<p>DONE :</p> 
+<br/>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
@@ -20,8 +20,8 @@ I'm a Junior Fullstack (JavaScript) developer.
 </div>
 </br>
 </br>
-<div>
-<p>IN PROGRESS :</p> 
+<div align="center">
+<p>In progress :</p> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>
 </div>
 </br>
@@ -34,22 +34,32 @@ I'm a Junior Fullstack (JavaScript) developer.
  ---
  
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iSteffan&theme=icegray&border_radius=10.2&date_format=j%20M%5B%20Y%5D&card_width=700)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isteffan&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture> -->
+<br/>
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=iSteffan&theme=icegray&border_radius=10.2&date_format=j%20M%5B%20Y%5D&card_width=700" /></div>
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isteffan&layout=compact&theme=vision-friendly-light" /></div>
 
 ---
+
+
 
 ...if something is going wrong:
 <div align="center">
  <img src="https://media.giphy.com/media/1afuwyOsr5E8X9CuRV/giphy.gif" width="600" height="300"/>
 </div>
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/iSteffan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/stepan-skichko/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a> 
+</div> 
 <!--
+
+
 **iSteffan/iSteffan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
