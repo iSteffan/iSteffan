@@ -2,10 +2,6 @@
 
 I'm a Junior Fullstack (JavaScript) developer.
 
-I am proficient in creating responsive websites following the mobile-first concept.  I understand and actively utilize the SASS preprocessor. To enhance the functionality of websites, I apply my extensive knowledge of JavaScript, combining it with the additional capabilities of various libraries, ranging from animation libraries to Redux and the React framework.
-
-I possess excellent teamwork skills and can provide high-quality feedback. My strengths lie in completing tasks before the deadline. Additionally, I am not afraid to experiment and explore new problem-solving skills and techniques to achieve project success.
-
 ---
 
 ### :hammer_and_wrench: My stack :
