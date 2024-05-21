@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a Junior Fullstack (JS+React+Next.js+TS+Node.js+Express+MongoDB) developer.
+I'm a Junior Fullstack (JavaScript) developer.
 
 ---
 
